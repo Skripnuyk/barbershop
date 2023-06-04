@@ -21,11 +21,13 @@
   color: var(--second-title-color);
   margin-bottom: 20px;
 }
+
 .about__after-title {
   @include font(18px, 1.67, null, 0.02em);
   color: #555555;
   margin-bottom: 20px;
 }
+
 .about__text {
   font-size: 14px;
   line-height: 1.86;

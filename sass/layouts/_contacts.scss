@@ -11,12 +11,12 @@
 .contacts-address {
   margin-bottom: 70px;
 }
+
 .contacts-map-link {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.67;
   letter-spacing: 0.02em;
-
   color: #9da4bd;
   display: inline-block;
   margin-bottom: 20px;
@@ -25,11 +25,11 @@
 .contacts-item:not(:last-child) {
   margin-bottom: 20px;
 }
+
 .contacts-link {
   font-size: 18px;
   line-height: 1.67;
   letter-spacing: 0.02em;
-
   color: #9da4bd;
 }
 
@@ -37,12 +37,10 @@
   font-weight: 600;
   font-size: 11px;
   line-height: 1.36;
-  /* identical to box height */
-
   text-transform: uppercase;
-
   color: #ffffff;
 }
+
 .contacts-schedule {
   font-size: 18px;
   line-height: 1.67;
